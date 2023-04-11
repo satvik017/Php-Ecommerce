@@ -1,0 +1,28 @@
+body{
+    background: url(../image/green\ back.jpg);
+    background-size: cover;
+    background-color: rgba(80, 180, 13, 0.822);
+  background-repeat: no-repeat;
+  background-position: 45% 7%;
+}
+
+.navbar-brand{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 70px;
+  height: 60px;
+  overflow: hidden;
+}
+.navbar-brand > img{
+  margin: 0;
+  width: 70px;
+  height: 100px;
+}
+header{
+  background: url('../image/3.png');
+  background-position: center right;
+  background-size: contain;
+  background-repeat: no-repeat;
+  
+}
